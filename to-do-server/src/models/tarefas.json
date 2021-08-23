@@ -1,16 +1,23 @@
 [
   {
     "id": "1",
-    "date": "03/06/2021",
+    "date": "03/07/2021",
     "finished": false,
     "description": "Revisar arrays no Javascript",
     "author": "Beyonce"
   },
   {
     "id": "2",
-    "date": "03/06/2021",
+    "date": "03/07/2021",
     "finished": true,
     "description": "Fazer tarefa s6",
     "author": "Paula"
+  },
+  {
+    "id": "3",
+    "date": "03/07/2021",
+    "finished": true,
+    "description": "Lavar banheiro",
+    "author": "let"
   }
 ]
