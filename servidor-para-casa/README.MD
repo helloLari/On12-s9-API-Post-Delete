@@ -1,10 +1,6 @@
 Workshop Backend - Reprograma
 Exercício: On12-s9-API-Post-Delete
 
-Professora: Paula Allemand
-Aluna: Jezielle Cunha
-
-
 Criar um servidor do zero, usando arquitetura MVC e converter as demandas de negócio em endpoints, criando as lógicas necessárias para cada rota.
 
 Demandas de negócio:
